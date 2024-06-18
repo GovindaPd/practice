@@ -15,5 +15,8 @@ while True:
         break;
 
 
+for i in range(50):
+    print(i)
+
 
     
