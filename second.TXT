@@ -1,0 +1,2 @@
+some txt written from bash
+some more txt written from bash
